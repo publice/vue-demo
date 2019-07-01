@@ -1,0 +1,6 @@
+/**
+ * Created by Rock on 2019/3/22.
+ */
+{
+    "plugins": [["import", {"libraryName": "iview", "libraryDirectory": "src/components"}]]
+}
