@@ -24,7 +24,7 @@
     "css-loader": "^0.26.2",
     "file-loader": "^0.10.1",
     "iview-loader": "^1.2.2",
-    "node-sass": "^4.5.0",
+    "node-sass": "^7.0.0",
     "sass": "^0.5.0",
     "sass-loader": "^6.0.2",
     "scss-loader": "0.0.1",
